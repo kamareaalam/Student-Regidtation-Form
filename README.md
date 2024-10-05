@@ -1,2 +1,2 @@
 # Student-Regidtation-Form
-I developed this Personal Portpolio website using HTML,CSS,Bootstrap, Jacascript
+I developed this Student Registation Form website using HTML,CSS,Bootstrap, Jacascript
